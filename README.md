@@ -71,30 +71,6 @@ Employee ID : HARIT2026
 
 ---
 
-## ▶️ How to Run
-
-### Step 1
-
-Open Terminal
-
-### Step 2
-
-Navigate to the Project Folder
-
-```bash
-cd python-smart-employee-id-generator
-```
-
-### Step 3
-
-Run the Program
-
-```bash
-python employee_id_generator.py
-```
-
----
-
 ## 📸 Project Output
 
 Add your screenshot here:
